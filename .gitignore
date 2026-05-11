@@ -1,0 +1,17 @@
+# Generated reports contain real vulnerability data — do not commit
+security-report.md
+security-report.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
